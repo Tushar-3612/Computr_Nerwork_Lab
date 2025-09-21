@@ -12,8 +12,7 @@ int main(){
     arr[2] = bit[0];
     arr[4] = bit[1];
     arr[5] = bit[2];
-    arr[6] = bit[3];
-
+    arr[6] = bit[3];
     arr[0] = 0;
     arr[1] = 0;
     arr[3] = 0;
