@@ -2,8 +2,7 @@
 using namespace std;
 int main(){
     int arr[7];
-    int bit[4];
-
+    int bit[4];
     cout << "Enter the Bits (Left to right)" << endl;
     for(int i = 0; i < 4; i++){
         cout << i+1 << " bit : ";
