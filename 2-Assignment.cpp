@@ -1,18 +1,22 @@
 #include<iostream>
-using namespace std;
+using namespace std;
+
 int main(){
     int arr[7];
-    int bit[4];
+    int bit[4];
+
     cout << "Enter the Bits (Left to right)" << endl;
     for(int i = 0; i < 4; i++){
         cout << i+1 << " bit : ";
         cin >> bit[i];
     }
 
+    
     arr[2] = bit[0];
     arr[4] = bit[1];
     arr[5] = bit[2];
-    arr[6] = bit[3];
+    arr[6] = bit[3];
+
     arr[0] = 0;
     arr[1] = 0;
     arr[3] = 0;
@@ -59,3 +63,4 @@ int main(){
 
  return 0;
 }
+
