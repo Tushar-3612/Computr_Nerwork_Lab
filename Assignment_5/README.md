@@ -9,10 +9,18 @@ It demonstrates three main functionalities:
 
 ## 📁 Folder Structure
 
+
 ### TCP Folder
 - `Server.java` → TCP server program  
 - `Client.java` → TCP client program
-- `sample.txt`  → File For Sharing 
+
+ ---
+
+### Sample File
+- `sample.txt` → Example file for testing file transfer  
+
+---
+
 
 ### Run code simultaneously That You Can 
 
